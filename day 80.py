@@ -1,6 +1,6 @@
 # program python
 # membuat modul matematika
-
+# modulnya ada di github ( matematika.py )
 import matematika
 
 hasi_tambah = matematika.tambah(1,2,3,4,5)
